@@ -18,7 +18,7 @@ Los libros son **libres**: puedes copiarlos, imprimirlos, venderlos, traducirlos
 |---|---|---|
 | PDF de lectura (fondo oscuro) | [`Por_que_Dios_es_libertario_Melvin_Franco.pdf`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco.pdf) | `cd4b7c52adb46c8388ce699255777906f195d59c12ee98a90ba42931556bc65b` |
 | EPUB (Kindle y lectores electrónicos) | [`Por_que_Dios_es_libertario_Melvin_Franco.epub`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco.epub) | `85e41f21ff23e96fba0d14f7774d138f4cc1734ce522d1c7b8e1b463406e2cf0` |
-| Interior para imprimir (6 × 9 pulgadas) | [`Por_que_Dios_es_libertario_Melvin_Franco_impresion_interior.pdf`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco_impresion_interior.pdf) | `a5b7de482d497cb2a7bc15743812101459072515c009e912ae529920224a287c` |
+| Interior para imprimir (6 × 9 pulgadas) | [`Por_que_Dios_es_libertario_Melvin_Franco_impresion_interior.pdf`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco_impresion_interior.pdf) | `0e24ea0136df5ea231d483f3f2d89ef48917bd6e6fdeb5108ad0b70a5887191d` |
 | Cubierta para imprimir | [`Por_que_Dios_es_libertario_Melvin_Franco_impresion_cubierta.pdf`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco_impresion_cubierta.pdf) | `ad7d7244e32170eb0336ad4a830b22870f82098efc46d18b201eb23afd31c64d` |
 | Portada del libro electrónico | [`Por_que_Dios_es_libertario_Melvin_Franco_portada.jpg`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco_portada.jpg) | `529c60b12bbadcb750e20aeb026153dde197fcc2ca3acf3d12db172fa7bbeb28` |
 
