@@ -23,7 +23,22 @@ Cada carpeta contiene:
 - `.asc`: la firma digital del autor;
 - `.ots`: el sello temporal de OpenTimestamps, anclado en la cadena de bloques de Bitcoin.
 
+## Sello en Bitcoin
+
+| Libro | Bloque | Fecha del bloque | Merkle root |
+|---|---|---|---|
+| Por qué Dios es libertario v1.0 | [969987](https://www.blockchain.com/explorer/blocks/btc/969987) | 2026-10-05 | `1538e295b237d25d8b90fdc6a560560308ad43565298c5476ae40f778d742bc2` |
+
 ## Cómo verificarlo
+
+Forma rápida, todo de una vez:
+
+```sh
+cd por-que-dios-es-libertario
+../verificar.sh Por_que_Dios_es_libertario_Melvin_Franco.pdf
+```
+
+Paso a paso:
 
 ```sh
 cd por-que-dios-es-libertario
