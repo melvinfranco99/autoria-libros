@@ -12,30 +12,31 @@ Los libros son **libres**: puedes copiarlos, imprimirlos, venderlos, traducirlos
 
 ## Libros
 
-| Libro | Versión | SHA-256 del PDF |
+### Por qué Dios es libertario, versión 1.0 (2026-10-05)
+
+| Edición | Archivo | SHA-256 |
 |---|---|---|
-| [Por qué Dios es libertario](por-que-dios-es-libertario/) | 1.0 (2026-10-05) | `cd4b7c52adb46c8388ce699255777906f195d59c12ee98a90ba42931556bc65b` |
+| PDF de lectura (fondo oscuro) | [`Por_que_Dios_es_libertario_Melvin_Franco.pdf`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco.pdf) | `cd4b7c52adb46c8388ce699255777906f195d59c12ee98a90ba42931556bc65b` |
+| EPUB (Kindle y lectores electrónicos) | [`Por_que_Dios_es_libertario_Melvin_Franco.epub`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco.epub) | `85e41f21ff23e96fba0d14f7774d138f4cc1734ce522d1c7b8e1b463406e2cf0` |
+| Interior para imprimir (6 × 9 pulgadas) | [`Por_que_Dios_es_libertario_Melvin_Franco_impresion_interior.pdf`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco_impresion_interior.pdf) | `a5b7de482d497cb2a7bc15743812101459072515c009e912ae529920224a287c` |
+| Cubierta para imprimir | [`Por_que_Dios_es_libertario_Melvin_Franco_impresion_cubierta.pdf`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco_impresion_cubierta.pdf) | `ad7d7244e32170eb0336ad4a830b22870f82098efc46d18b201eb23afd31c64d` |
+| Portada del libro electrónico | [`Por_que_Dios_es_libertario_Melvin_Franco_portada.jpg`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco_portada.jpg) | `529c60b12bbadcb750e20aeb026153dde197fcc2ca3acf3d12db172fa7bbeb28` |
 
-Cada carpeta contiene:
-
-- el PDF;
-- `.sha256`: el hash del archivo;
-- `.asc`: la firma digital del autor;
-- `.ots`: el sello temporal de OpenTimestamps, anclado en la cadena de bloques de Bitcoin.
+Cada archivo tiene al lado su `.sha256` (hash), su `.asc` (firma digital del autor) y su `.ots` (sello temporal de OpenTimestamps, anclado en Bitcoin).
 
 ## Sello en Bitcoin
 
-| Libro | Bloque | Fecha del bloque | Merkle root |
+| Archivo | Bloque | Fecha del bloque | Merkle root |
 |---|---|---|---|
-| Por qué Dios es libertario v1.0 | [969987](https://www.blockchain.com/explorer/blocks/btc/969987) | 2026-10-05 | `1538e295b237d25d8b90fdc6a560560308ad43565298c5476ae40f778d742bc2` |
+| PDF de lectura | [969987](https://www.blockchain.com/explorer/blocks/btc/969987) | 2026-10-05 | `1538e295b237d25d8b90fdc6a560560308ad43565298c5476ae40f778d742bc2` |
 
 ## Cómo verificarlo
 
-Forma rápida, todo de una vez:
+Forma rápida: comprueba todos los archivos de una vez e indica, para cada uno, el bloque de Bitcoin y la Merkle Root que hay que buscar en un explorador como blockchain.com.
 
 ```sh
 cd por-que-dios-es-libertario
-../verificar.sh Por_que_Dios_es_libertario_Melvin_Franco.pdf
+../verificar.sh
 ```
 
 Paso a paso:
