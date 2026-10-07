@@ -21,6 +21,7 @@ Los libros son **libres**: puedes copiarlos, imprimirlos, venderlos, traducirlos
 | Interior para imprimir (6 × 9 pulgadas) | [`Por_que_Dios_es_libertario_Melvin_Franco_impresion_interior.pdf`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco_impresion_interior.pdf) | `0e24ea0136df5ea231d483f3f2d89ef48917bd6e6fdeb5108ad0b70a5887191d` |
 | Cubierta para imprimir | [`Por_que_Dios_es_libertario_Melvin_Franco_impresion_cubierta.pdf`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco_impresion_cubierta.pdf) | `ad7d7244e32170eb0336ad4a830b22870f82098efc46d18b201eb23afd31c64d` |
 | Portada del libro electrónico | [`Por_que_Dios_es_libertario_Melvin_Franco_portada.jpg`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco_portada.jpg) | `529c60b12bbadcb750e20aeb026153dde197fcc2ca3acf3d12db172fa7bbeb28` |
+| Portada en PDF | [`Por_que_Dios_es_libertario_Melvin_Franco_portada.pdf`](por-que-dios-es-libertario/Por_que_Dios_es_libertario_Melvin_Franco_portada.pdf) | `c74eefd8218be6bb71112e1869d3b3bf843302cec10d9ce6e93e24b74adb3929` |
 
 Cada archivo tiene al lado su `.sha256` (hash), su `.asc` (firma digital del autor) y su `.ots` (sello temporal de OpenTimestamps, anclado en Bitcoin).
 
